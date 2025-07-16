@@ -17048,7 +17048,7 @@
                                     onCopy: function() {
                                         return le(!0)
                                     },
-                                    text: "\uD83D\uDED5 \uD83D\uDD49 Vishnu #Sahasranama #".concat(n+1, " ").concat(G, "/").concat(5).concat(P ? "" : "*", "\n").concat(qq).concat("\nhttps://sahasranama.glitch.me/"),
+                                    text: "\uD83D\uDED5 \uD83D\uDD49 Vishnu #Sahasranama #".concat(n+1, " ").concat(G, "/").concat(5).concat(P ? "" : "*", "\n").concat(qq).concat("\nhttps://pd2.github.io/sahasranama/"),
                                     children: (0,
                                     at.jsx)(zy, {
                                         className: "copyButton",
