@@ -17178,10 +17178,10 @@
                             }), (0,
                             at.jsx)("br", {}), (0,
                             at.jsx)(Py, {
-                                children: "2024, Pradeep D, iSeek.page Code: J.Y.R. Courtesy: drikpanchang"
+                                children: "2024, Pradeep D, iseek.pradeepd.com, Code: J.Y.R. Courtesy: drikpanchang"
                             }), (0,
                             at.jsx)(Dy, { target: "_blank", 
-                                         href: "https://www.iseek.page", 
+                                         href: "https://iseek.pradeepd.com/", 
                                          children: "Supported by iSeek.page" }),
                                        (0,
                             at.jsx)("br", {}), (0,
