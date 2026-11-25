@@ -17182,8 +17182,10 @@
                             }), (0,
                             at.jsx)(Dy, { target: "_blank", 
                                          href: "https://iseek.pradeepd.com/", 
-                                         children: "Supported by iSeek.pradeepd.com" }),
-                                       (0,
+                                         children: "Supported by iSeek.pradeepd.com" }), (0,
+                            at.jsx)(Dy, { target: "_blank", 
+                                         href: "https://www.buymeacoffee.com/pradeepde/", 
+                                         children: "Buy me a book" }), (0,
                             at.jsx)("br", {}), (0,
                             at.jsxs)("div", {
                                 className: "colorblind",
